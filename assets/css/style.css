@@ -5,6 +5,8 @@
     color: #ffffff;
 }
 
+/* These styles are applied to the header*/
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,6 +49,8 @@ nav a {
     background-position: center;
 }
 
+/* These styles are applied to the main*/
+
 body {
     background-color: #d9dcd6;
 }
@@ -84,7 +88,7 @@ body {
     font-size: 36px;
 }
 
-.content p {
+p {
     font-size: 16px;
 }
 
@@ -111,13 +115,21 @@ body {
     max-width: 150px;
 }
 
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 32px;
+}
+
+/* These styles are applied to the */
+
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    
 }
 
-.footer h4 {
+.footer h4, .footer p {
     font-size: 20px;
+    color: black;
 }
