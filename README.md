@@ -1,7 +1,9 @@
 # Horiseon code refactor challenge
 
 ## Description
-This Horiseon website is a refactor challenge for bootcamp students at the end of module 1 of their studies. It contains refactored HTML and CSS to improve accesssibility and search engine optimisation.
+This Horiseon website (see preview below) is a refactor challenge for bootcamp students at the end of module 1 of their studies. It contains refactored HTML and CSS to improve accesssibility and search engine optimisation.
+
+![Horiseon webpage preview](./assets/images/wedpage-preview.png)
 
 ## Installation
 N/A
